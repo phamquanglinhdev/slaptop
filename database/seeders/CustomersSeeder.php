@@ -23,5 +23,37 @@ class CustomersSeeder extends Seeder
             'created_at' => now(),
 
         ]);
+        DB::table('customers')->insert([
+
+            'number_phone' => '0562201674',
+            'address' => 'hà nội',
+            'user_id' => 1,
+            'created_at' => now(),
+
+        ]);
+        DB::table('customers')->insert([
+
+            'number_phone' => '0562201674',
+            'address' => 'hà nội',
+            'user_id' => 1,
+            'created_at' => now(),
+
+        ]);
+        DB::table('customers')->insert([
+
+            'number_phone' => '0562201674',
+            'address' => 'hà nội',
+            'user_id' => 1,
+            'created_at' => now(),
+
+        ]);
+        DB::table('customers')->insert([
+
+            'number_phone' => '0562201674',
+            'address' => 'hà nội',
+            'user_id' => 1,
+            'created_at' => now(),
+
+        ]);
     }
 }
