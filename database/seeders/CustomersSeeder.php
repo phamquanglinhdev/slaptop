@@ -27,7 +27,7 @@ class CustomersSeeder extends Seeder
 
             'number_phone' => '0562201674',
             'address' => 'hà nội',
-            'user_id' => 1,
+            'user_id' => 2,
             'created_at' => now(),
 
         ]);
@@ -35,7 +35,7 @@ class CustomersSeeder extends Seeder
 
             'number_phone' => '0562201674',
             'address' => 'hà nội',
-            'user_id' => 1,
+            'user_id' => 3,
             'created_at' => now(),
 
         ]);
@@ -43,7 +43,7 @@ class CustomersSeeder extends Seeder
 
             'number_phone' => '0562201674',
             'address' => 'hà nội',
-            'user_id' => 1,
+            'user_id' => 4,
             'created_at' => now(),
 
         ]);
@@ -51,7 +51,7 @@ class CustomersSeeder extends Seeder
 
             'number_phone' => '0562201674',
             'address' => 'hà nội',
-            'user_id' => 1,
+            'user_id' => 5,
             'created_at' => now(),
 
         ]);
